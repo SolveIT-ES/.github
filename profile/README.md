@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Bienvenidos a SolveIT-ES!
+# 👋 ¡Bienvenidos a SolveIT!
 
 ### **Consultoría IT y Transformación Digital para Empresas**
 
