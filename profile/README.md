@@ -2,63 +2,91 @@
 
 # 👋 ¡Bienvenidos a SolveIT-ES!
 
-**Tu socio estratégico en Consultoría IT y Transformación Digital**
-
-[![Website](https://img.shields.io/badge/Visita_nuestra_Web-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.solveit.es)
-[![Email](https://img.shields.io/badge/Contáctanos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@solveit.es)
-
-Nuestro objetivo es ayudar a las empresas a optimizar sus recursos, automatizar procesos y escalar sus negocios de forma eficiente, convirtiendo la complejidad tecnológica en soluciones claras y accesibles.
+### **Consultoría IT y Transformación Digital para Empresas**
 
 <br>
-</div>
 
----
+<a href="https://www.solveit.es">
+  <img src="https://img.shields.io/badge/Inicio-009688?style=for-the-badge&logoColor=white" alt="Inicio"/>
+</a>
+<a href="https://www.solveit.es">
+  <img src="https://img.shields.io/badge/Soluciones-009688?style=for-the-badge&logoColor=white" alt="Soluciones"/>
+</a>
+<a href="mailto:info@solveit.es">
+  <img src="https://img.shields.io/badge/CONT%C3%81CTANOS-FFD700?style=for-the-badge&logoColor=black&labelColor=FFD700&color=FFD700" alt="Contáctanos"/>
+</a>
 
-### 🚀 Sobre Nosotros
+<br><br>
 
-En SolveIT no somos solo un proveedor tecnológico, **somos un socio que te acompaña desde el primer día**. Entendemos que cada compañía es única, y por eso diseñamos arquitecturas e implementaciones a medida.
+> *En SolveIT, nos ponemos serios para que tú puedas tomarlo con calma. Asesoramiento experto, enfoque personalizado y adaptado a tus recursos.*
 
-* 📍 **Ubicaciones:** Madrid y Valencia (España)
-* 🤝 **Partner Oficial:** Expertos en implementación de ecosistemas completos.
-* 💡 **Enfoque:** Asesoramiento experto, servicio personalizado y soluciones adaptadas a tus recursos.
-
----
-
-### 🛠️ Nuestras Soluciones y Especialidades
-
-Ayudamos a las empresas en las áreas más críticas de su negocio utilizando las mejores tecnologías:
-
-<div align="center">
-  
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
 </div>
-
-* ⚙️ **Gestión Empresarial (ERP) & CRM:** Centralización de procesos, gestión de clientes y finanzas.
-* 🔒 **Ciberseguridad:** Protección avanzada para garantizar la integridad de datos y sistemas.
-* 📊 **Cumplimiento y Gobierno (GRC / ESG):** Control de gobierno corporativo, sostenibilidad y gestión de riesgos.
-* 👥 **Recursos Humanos (HR) & Productividad:** Digitalización de selección, formación, herramientas colaborativas y automatización.
-* 🚀 **Emprendimiento Digital:** Soluciones rápidas, escalables y asequibles para impulsar negocios nativos digitales.
-
----
-
-### 🎓 Formación y Acompañamiento
-
-Creemos en empoderar a los equipos. No solo implementamos tecnología; **te capacitamos para dominarla**. Ofrecemos talleres y formaciones prácticas adaptadas a la realidad empresarial para sacar el máximo partido a las herramientas integradas.
 
 ---
 
 <div align="center">
 
-### ¿Listo para transformar tu negocio? ¡Hablemos! 🚀
+## 🤝 Nuestros Partners y Tecnologías
 
-[Agenda una demo gratuita](https://www.solveit.es) | [info@solveit.es](mailto:info@solveit.es)
+<a href="https://www.odoo.com/es_ES" target="_blank">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
+</a>
+<a href="https://www.microsoft.com/es-es/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft">
+</a>
+<a href="https://workspace.google.com/intl/es/" target="_blank">
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+</a>
+<a href="https://www.eset.com/es/" target="_blank">
+  <img src="https://img.shields.io/badge/ESET-00878C?style=for-the-badge&logo=eset&logoColor=white" alt="ESET">
+</a>
+<a href="https://www.lenovo.com/es/es/" target="_blank">
+  <img src="https://img.shields.io/badge/Lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo">
+</a>
+
+</div>
 
 <br>
-  
-⭐️ *¡Explora nuestros repositorios y descubre cómo construimos el futuro digital!*
+
+---
+
+## 🛠️ Nuestras Soluciones
+
+Ayudamos a las empresas en las áreas más críticas de su negocio:
+
+<br>
+
+* <a href="https://www.solveit.es/en/security"><img src="https://img.shields.io/badge/Ciberseguridad-009688?style=for-the-badge" alt="Ciberseguridad"></a>
+  <br>Refuerza la protección digital con soluciones de seguridad avanzadas.<br>
+
+* <a href="https://www.solveit.es/en/soluciones-empresariales"><img src="https://img.shields.io/badge/Gesti%C3%B3n_de_la_calidad_(IMS)-009688?style=for-the-badge" alt="Gestión de la calidad"></a>
+  <br>Gestiona la calidad con sistemas integrados orientados a la mejora continua.<br>
+
+* <a href="https://www.solveit.es/en/soluciones-empresariales"><img src="https://img.shields.io/badge/Recursos_Humanos_(HR)-009688?style=for-the-badge" alt="Recursos Humanos"></a>
+  <br>Digitaliza procesos de selección, formación y desarrollo profesional.<br>
+
+* <a href="https://www.solveit.es/en/grc"><img src="https://img.shields.io/badge/Cumplimiento_y_gobierno_(GRC_/_ESG)-009688?style=for-the-badge" alt="GRC / ESG"></a>
+  <br>Controla el gobierno corporativo y la sostenibilidad de forma eficiente.<br>
+
+* <a href="https://www.solveit.es/en/soluciones-empresariales"><img src="https://img.shields.io/badge/Gesti%C3%B3n_Empresarial_(ERP)_%26_CRM-009688?style=for-the-badge" alt="ERP & CRM"></a>
+  <br>Optimiza la gestión de recursos, finanzas y operaciones con un ERP a tu medida.<br>
+
+---
+
+<div align="center">
+
+<br>
+
+## 🚀 _¿Cómo lo hacemos?_
+### **Formamos a tu equipo y damos el salto de transformación digital**
+*Ven al siguiente nivel con nosotros*
+
+Potencia tu empresa con formaciones prácticas en transformación digital. Te enseñamos a aplicar herramientas estratégicas para gestionar procesos, automatizar tareas y escalar tu negocio de forma eficiente, con contenidos adaptados a tu realidad empresarial.
+
+<br>
+
+### ⭐️ **[www.solveit.es](https://www.solveit.es)** ⭐️
 
 </div>
